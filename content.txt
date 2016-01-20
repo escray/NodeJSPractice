@@ -1,0 +1,19 @@
+syn on
+
+"common configuration {{ 	通用配置
+set ai				"自动缩近
+set bs=2
+set showmatch
+set laststatus=2
+set expandtab
+set shiftwidth=4
+set tabstop=4
+set cursorline
+set number
+set autoread
+set ignorecase
+set fileencodings=utf-8,gbk
+set hls
+set helplang=en
+set foldmethod=syntax
+colorscheme wombat256mod
