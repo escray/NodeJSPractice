@@ -1,0 +1,26 @@
+{
+  "name": "conn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.0.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "compression": "^1.6.1",
+    "connect-jade": "0.0.5",
+    "cookie-parser": "^1.4.1",
+    "cookie-session": "^1.2.0",
+    "express-session": "^1.13.0",
+    "http": "0.0.0",
+    "morgan": "^1.6.1",
+    "qs": "^6.0.2",
+    "serve-static": "^1.10.2"
+  }
+}
