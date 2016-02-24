@@ -12,7 +12,7 @@ function MyClass() {
   var self = this;
   setTimeout(function timeoutCb() {
     self.emit('myEvent', 'hello world', 42);
-  });
+  }, 1000);
 }
 
 util.inherits(MyClass, EventEmitter);
