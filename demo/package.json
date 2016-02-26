@@ -7,11 +7,13 @@
   },
   "devDependencies": {
     "body-parser": "^1.15.0",
+    "express-di": "^4.1.1",
     "favicon": "0.0.2",
     "hbs": "^4.0.0",
     "jade": "^1.11.0",
     "method-override": "^2.3.5",
     "morgan": "^1.7.0",
+    "multer": "^1.1.0",
     "path": "^0.12.7",
     "serve-favicon": "^2.3.0"
   }
